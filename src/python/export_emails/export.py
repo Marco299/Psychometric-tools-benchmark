@@ -106,13 +106,11 @@ def get_all_emails(email_addresses, mailing_lists):
     return res
 
 
-def get_score_by_month(uid, p_name, usr_emails, resume_month, nlon, nlon_model):
+def get_score_by_month(uid, p_name, usr_emails, nlon, nlon_model):
     # sort emails by date
     usr_emails.sort(key=lambda e: e.first_date)
     # group by month
     for month, eml_list in groupby(usr_emails, key=lambda e: datetime.strftime(e.first_date, "%Y-%m")):
-        if resume_month is not None and month <= resume_month:
-            continue
         logger.debug('Cleaning up email bodies')
         clean_emails = clean_up([x.message_body for x in eml_list], nlon, nlon_model)
 
@@ -122,29 +120,6 @@ def get_score_by_month(uid, p_name, usr_emails, resume_month, nlon, nlon_model):
         logger.debug('File successfully saved')
 
         del clean_emails
-
-
-def reset_personality_table():
-    # cancella tutti i file nella cartella
-    logger.info('Done resetting files')
-
-
-def already_parsed_uid_project_month(ids, p_name):
-    # trova mesi fatti
-    month = None
-    return month
-
-
-def already_parsed_uid_project(ids):
-    p_name = None
-    # trova progetti fatti
-    return p_name
-
-
-def already_parsed_uid():
-    res = None
-    # trova utenti fatti
-    return res
 
 
 def main():
@@ -161,14 +136,10 @@ def main():
 
     contributors_set = sorted(set([alias_map[x.dev_uid] for x in contributors]))
 
-    resume_id = already_parsed_uid()
     for uid in sorted(set(alias_map.values())):
         # negative ids for ASFers
         # positive for git developers
         # positive, starts from OFFSET ids for emailers
-        if resume_id is not None and uid < resume_id:
-            logger.debug('%s already analyzed, skipping' % uid)
-            continue
         if uid not in contributors_set:
             logger.debug('%s did not contribute to any project\'s code base, skipping' % uid)
             continue
@@ -180,10 +151,7 @@ def main():
             continue
         logger.info('Processing uid %s <%s>' % (uid, ','.join(alias_email_addresses)))
 
-        resume_project = already_parsed_uid_project(aliases)
         for p in projects:
-            if resume_project is not None and p.name < resume_project:
-                continue
             logger.info('Processing project %s' % p.name)
             project_mailing_lists = (p.dev_ml_url[:-1], p.user_ml_url[:-1])  # remove trailing slash
             # project_mailing_lists_email_addresses = session.query(MessagesPeople.email_address).filter(
@@ -192,8 +160,7 @@ def main():
             logger.debug('Retrieving emails from %s' % ', '.join(alias_email_addresses))
             all_emails = get_all_emails(alias_email_addresses, project_mailing_lists)
             if all_emails:
-                resume_month = already_parsed_uid_project_month(aliases, p.name)
-                get_score_by_month(uid, p.name, all_emails, resume_month, nlon, nlon_model)
+                get_score_by_month(uid, p.name, all_emails, nlon, nlon_model)
                 del all_emails
             else:
                 logger.debug(

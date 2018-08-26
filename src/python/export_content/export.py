@@ -6,8 +6,6 @@ from datetime import datetime
 from itertools import groupby
 
 from bs4 import BeautifulSoup as BS4
-from sqlalchemy import exc
-from sqlalchemy import func
 from sqlalchemy import or_, and_
 from sqlalchemy import orm
 
@@ -15,7 +13,7 @@ from commons.aliasing import load_alias_map, get_alias_ids
 from db.setup import SessionWrapper
 from logger import logging_config
 
-from export_emails.orm.tables import *
+from export_content.orm.tables import *
 
 from rpy2.robjects.packages import importr
 import rpy2.robjects as robjects

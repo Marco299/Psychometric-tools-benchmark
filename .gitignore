@@ -106,4 +106,4 @@ ENV/
 *.mls
 .DS_Store
 
-src/python/export_emails/content/
+src/python/export_content/content/

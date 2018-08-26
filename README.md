@@ -27,4 +27,5 @@ Contents are stored in folder `content`.
 ## 4. Compute developers' Big Five traits scores using LIWC
 * *Execution*:
     1. Open LIWC software;
-    2. From `File` click  `Analyze text in folder..` and select `content` folder described at step 3.
+    2. From `File` click  `Analyze text in folder..` and select `content` folder described at step 3;
+    3. From `File` click  `Save results..`.

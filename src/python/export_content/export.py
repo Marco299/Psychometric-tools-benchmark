@@ -104,7 +104,7 @@ def get_all_emails(email_addresses, mailing_lists):
     return res
 
 
-def get_score_by_month(uid, p_name, usr_emails, nlon, nlon_model):
+def save_on_text_file(uid, p_name, usr_emails, nlon, nlon_model):
     # sort emails by date
     usr_emails.sort(key=lambda e: e.first_date)
     # group by month
@@ -158,7 +158,7 @@ def main():
             logger.debug('Retrieving emails from %s' % ', '.join(alias_email_addresses))
             all_emails = get_all_emails(alias_email_addresses, project_mailing_lists)
             if all_emails:
-                get_score_by_month(uid, p.name, all_emails, nlon, nlon_model)
+                save_on_text_file(uid, p.name, all_emails, nlon, nlon_model)
                 del all_emails
             else:
                 logger.debug(

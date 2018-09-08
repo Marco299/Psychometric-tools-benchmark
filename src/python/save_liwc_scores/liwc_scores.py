@@ -5,6 +5,7 @@ from db.setup import SessionWrapper
 from logger import logging_config
 
 from save_liwc_scores.orm.scores_tables import *
+from _mysql import NULL
 
 def import_result(session, result):
     filename = result['Filename'].replace(".txt", "")
@@ -13,7 +14,7 @@ def import_result(session, result):
     if dictionary == '2007':
         #missing: clout, female, differ, informal, adj, risk, male, compare,
         # affiliation, netspeak, power, interrog, drives, reward
-        ls = Liwc2007Scores(dev_uid=uid, project_name=p_name, month=month, email_count = 0, wc=result["WC"],
+        ls = Liwc2007Scores(dev_uid=uid, project_name=p_name, month=month, email_count = None, wc=result["WC"],
                             sixltr=result["Sixltr"].replace(",","."), wps=result["WPS"].replace(",","."),
                             dic=result["Dic"].replace(",","."), family=result["family"].replace(",","."),
                             feel=result["feel"].replace(",","."), money=result["money"].replace(",","."),
@@ -55,7 +56,7 @@ def import_result(session, result):
                             incl=result["incl"].replace(",","."), excl=result["excl"].replace(",","."))
         
     elif dictionary == '2015':
-        ls = Liwc2015Scores(dev_uid=uid, project_name=p_name, month=month, email_count=0, wc=result["WC"],
+        ls = Liwc2015Scores(dev_uid=uid, project_name=p_name, month=month, email_count=None, wc=result["WC"],
                         sixltr=result["Sixltr"].replace(",","."), clout=result["Clout"].replace(",","."),
                         wps=result["WPS"].replace(",","."), analytic=result["Analytic"].replace(",","."),
                         tone=result["Tone"].replace(",","."), dic=result["Dic"].replace(",","."),

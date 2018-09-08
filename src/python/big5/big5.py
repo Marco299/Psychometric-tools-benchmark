@@ -133,7 +133,10 @@ if __name__ == '__main__':
         logger.error('Missing mandatory first param for dictionary: \'2007\' or \'2015\' expected')
         sys.exit(-1)
     
-    reset_table()
-    get_profile_liwc()
-    logger.info('Done getting personality scores')
+    try:
+        reset_table()
+        get_profile_liwc()
+        logger.info('Done getting personality scores')
+    except KeyboardInterrupt:
+        logger.error('Received Ctrl-C or other break signal. Exiting.')
      

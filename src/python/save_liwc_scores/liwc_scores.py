@@ -132,6 +132,8 @@ if __name__ == '__main__':
             reader = csv.DictReader(csvfile)
             for row in reader:
                 import_result(session, row)
-    except FileNotFoundError as e:
+    except FileNotFoundError:
         logger.error('No such file or directory')
         sys.exit(-1)
+    except KeyboardInterrupt:
+        logger.error('Received Ctrl-C or other break signal. Exiting.')

@@ -76,8 +76,15 @@ def get_alias_email_addresses(alias_ids):
     alias_email_addresses = set()
 
     for alias_id in alias_ids:
-        if alias_id > 0:
-            if alias_id < OFFSET:
+        if alias_id < GITHUBBERS_OFFSET:
+            # from UsersRegionId
+            try:
+                res = session.query(UsersRegionId.email).filter_by(id=alias_id).one()
+                alias_email_addresses.add(res.email)
+            except (orm.exc.NoResultFound, orm.exc.MultipleResultsFound):
+                continue
+        elif alias_id > 0:
+            if alias_id < EMAILERS_OFFSET:
                 # from GithubDeveloper - local_developers
                 try:
                     res = session.query(GithubDeveloper.email).filter_by(id=alias_id).one()
@@ -136,8 +143,9 @@ def main():
 
     for uid in sorted(set(alias_map.values())):
         # negative ids for ASFers
+        # negative ids, starts from GITHUBBERS_OFFSET for PR authors+location from GitHub
         # positive for git developers
-        # positive, starts from OFFSET ids for emailers
+        # positive, starts from EMAILERS_OFFSET ids for emailers
         if uid not in contributors_set:
             logger.debug('%s did not contribute to any project\'s code base, skipping' % uid)
             continue
@@ -167,7 +175,8 @@ def main():
     return False
 
 
-OFFSET = 900000
+EMAILERS_OFFSET = 900000
+GITHUBBERS_OFFSET = 1000000
 if __name__ == '__main__':
     logger = logging_config.get_logger('big5_personality', console_level=logging.DEBUG)
     SessionWrapper.load_config('../db/cfg/setup.yml')

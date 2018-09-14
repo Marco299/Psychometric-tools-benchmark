@@ -1,9 +1,3 @@
-[submodule "twitpersonality"]
-	path = twitpersonality
-	url = https://github.com/D2KLab/twitpersonality.git
-[submodule "src/twitpersonality"]
-	path = src/twitpersonality
-	url = https://github.com/D2KLab/twitpersonality.git
-[submodule "src/python/big5/twitpersonality"]
-	path = src/python/big5/twitpersonality
+[submodule "src/python/big5/twit_personality"]
+	path = src/python/big5/twit_personality
 	url = https://github.com/D2KLab/twitpersonality.git

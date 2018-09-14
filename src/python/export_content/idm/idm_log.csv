@@ -21,9 +21,6 @@ dict_items([('EMAIL', 1)])
 859;;sebastian yepes;syepes@gmail.com
 933251;syepes;sebastian yepes fernandez;syepes@gmail.com
 
-855;;juarez bochi;jbochi@gmail.com
-915288;jbochi;juarez bochi;jbochi@gmail.com
-
 440;;ilya ganelin;ilya.ganelin@capitalone.com
 914080;ilya.ganelin;ganelin, ilya;ilya.ganelin@capitalone.com
 849;;ilya ganelin;ilya.ganelin@capitalone.com
@@ -49,11 +46,6 @@ dict_items([('EMAIL', 1)])
 -1001520;guptarajat;rajat gupta;rajat.iitian@gmail.com
 927576;rajat.iitian;rajat gupta;rajat.iitian@gmail.com
 
-dict_items([('EMAIL', 3)])
--1001518;madhuka;madhuka;madhukaudantha@gmail.com
-920371;madhukaudantha;madhuka udantha;madhukaudantha@gmail.com
-823;;madhuka;madhukaudantha@gmail.com
-
 821;;sjoerd mulder;sjoerdmulder@gmail.com
 4881;;sjoerd mulder;sjoerdmulder@gmail.com
 
@@ -68,9 +60,6 @@ dict_items([('EMAIL', 3)])
 dict_items([('EMAIL', 1)])
 -1001511;romi-totango;romi kuntsman;romi@totango.com
 811;;romi kuntsman;romi@totango.com
-
--1001508;tejasapatil;tejas patil;tejasp@apache.org
-933657;tejasp;tejas patil;tejasp@apache.org
 
 dict_items([('FULL_NAME', 1), ('EMAIL', 3)])
 -1001507;galleon;guillaume alleon;
@@ -87,9 +76,6 @@ dict_items([('EMAIL', 3), ('SIMPLE_EMAIL_PREFIX', 2), ('FULL_NAME', 2)])
 dict_items([('EMAIL', 1)])
 -1001505;tillrohrmann;till rohrmann;trohrmann@apache.org
 801;;till rohrmann;trohrmann@apache.org
-
-833;;rohit agarwal;mindprince@gmail.com
-922747;mindprince;rohit agarwal;mindprince@gmail.com
 
 dict_items([('EMAIL', 1)])
 -1001501;allenfang;allen;ayu780129@hotmail.com
@@ -190,10 +176,6 @@ dict_items([('EMAIL', 1)])
 692;;jan hentschel;jan.hentschel@ultratendency.com
 914862;jan.hentschel;jan hentschel;jan.hentschel@ultratendency.com
 
-dict_items([('EMAIL', 1)])
--1001450;baekhoseok;baek ho seok;baek22h@naver.com
-700;;baekhoseok;baek22h@naver.com
-
 dict_items([('FULL_NAME', 3), ('EMAIL', 3), ('PREFIX_LOGIN', 2)])
 -1001444;doanduyhai;duyhai doan;doanduyhai@gmail.com
 707;;duyhai doan;doanduyhai@gmail.com
@@ -249,20 +231,12 @@ dict_items([('EMAIL', 1)])
 906846;corbacho.anthony;anthony corbacho;corbacho.anthony@gmail.com
 
 dict_items([('EMAIL', 1)])
--1001422;qinchaofeng;qinchaofeng;18637156237@163.com
-900049;18637156237;18637156237@163.com;18637156237@163.com
-
-dict_items([('EMAIL', 1)])
 -1001421;oeegee;daniel jeon;oeegee@gmail.com
 634;;daniel jeon;oeegee@gmail.com
 
 dict_items([('EMAIL', 1)])
 -1001419;sotnich;sergey sotnichenko;s.sotnichenko@tinkoff.ru
 638;;sotnichenko sergey;s.sotnichenko@tinkoff.ru
-
-dict_items([('EMAIL', 1)])
--1001418;nohseho;noh seho;iam@sehonoh.kr
-632;;nohseho;iam@sehonoh.kr
 
 dict_items([('EMAIL', 1)])
 -1001416;guicaro;guillermo cabrera;guicaro@gmail.com
@@ -312,9 +286,6 @@ dict_items([('EMAIL', 1)])
 dict_items([('EMAIL', 1)])
 -1001393;sdrlurker;dong-ryull shin / ryan;1982sdr@hanmail.net
 563;;ryan shin;1982sdr@hanmail.net
-
-562;;krishna-pandey;krish.pandey21@gmail.com
-918776;krish.pandey21;krishna pandey;krish.pandey21@gmail.com
 
 dict_items([('SIMPLE_EMAIL_PREFIX', 1), ('SIMPLE_NAME', 1), ('EMAIL', 6)])
 -1001387;cloverhearts;cloverhearts;estail7s@outlook.com
@@ -367,18 +338,6 @@ dict_items([('EMAIL', 3)])
 -1001369;jongyoul;jongyoul lee;jongyoul@gmail.com
 522;;jongyoul lee;jongyoul@gmail.com
 916881;jongyoul;jongyoul lee;jongyoul@gmail.com
-
--1001364;kristopherkane;kristopher;kristopher.kane@gmail.com
-918814;kristopher.kane;kristopher kane;kristopher.kane@gmail.com
-
-dict_items([('FULL_NAME', 12), ('EMAIL', 6)])
--1001353;nathanmarz;nathan marz;nathan@nathanmarz.com
-4803;;nathanmarz;nathan@nathanmarz.com
--602;nathanmarz;nathan marz;
-923924;nathan;nathan marz;nathan@nathanmarz.com
-4857;;nathan marz;nathan@twitter.com
-4602;;nathan marz;nathan@nathanmarz.com
-4861;;nathan marz;nathan.marz@gmail.com
 
 4817;;prabeesh k;prabsmails@gmail.com
 926690;prabsmails;prabeesh k;prabsmails@gmail.com
@@ -486,13 +445,6 @@ dict_items([('SIMPLE_EMAIL_PREFIX', 2), ('SIMPLE_NAME', 2), ('EMAIL', 3)])
 903387;atdixon;aaron dixon;atdixon@gmail.com
 
 dict_items([('EMAIL', 1)])
--1001301;budongdong;zhangjinlong;zhangjinlong0604@126.com
-4733;;zhangjinlong;zhangjinlong0604@126.com
-
-4732;;david katten;dkatten@geoforce.com
-909145;dkatten;dave katten;dkatten@geoforce.com
-
-dict_items([('EMAIL', 1)])
 -1001297;zhihuij;zhihui jiao;zhihui.jiao@gmail.com
 4736;;zhihui jiao;zhihui.jiao@gmail.com
 
@@ -572,9 +524,6 @@ dict_items([('EMAIL', 1)])
 -1001256;schonfeld;michael schonfeld;michael@schonfeld.org
 4654;;michael schonfeld;michael@schonfeld.org
 
-4650;;chuck burgess;cburgess@progressrail.com
-905548;cburgess;chuck burgess;cburgess@progressrail.com
-
 -1001252;fhussonnois;florian hussonnois;florian.hussonnois@gmail.com
 4648;;florian hussonnois;florian.hussonnois@gmail.com
 
@@ -587,12 +536,6 @@ dict_items([('EMAIL', 3)])
 930738;seth.ammons;seth ammons sg;seth.ammons@sendgrid.com
 4647;;seth ammons;seth.ammons@sendgrid.com
 
-dict_items([('EMAIL', 6)])
--1001246;caofangkun;kun cao;caofangkun@gmail.com
-905340;caofangkun;fangkun cao;caofangkun@gmail.com
-4692;;caofangkun;caofangkun@gmail.com
-829;;caofangkun;caofangkun@gmail.com
-
 dict_items([('EMAIL', 3)])
 -1001243;bastiliu;basti liu;basti.lj@alibaba-inc.com
 903808;basti.lj;åˆ˜é”®(å¤è’…);basti.lj@alibaba-inc.com
@@ -603,13 +546,6 @@ dict_items([('EMAIL', 3)])
 
 -1001242;parth-brahmbhatt;parth brahmbhatt;
 -603;parth;parth brahmbhatt;
-
--1001237;mjsax;matthias j. sax;mjsax@apache.org
-4610;;mjsax;mjsax@apache.org
-922898;mjsax;matthias j. sax;mjsax@apache.org
-
-4642;;mjsax;mjsax@informatik.hu-berlin.de
-922899;mjsax;matthias j. sax;mjsax@informatik.hu-berlin.de
 
 4611;;carey tzou;ziyunhx@gmail.com
 937777;ziyunhx;carey;ziyunhx@gmail.com
@@ -630,12 +566,6 @@ dict_items([('EMAIL', 1)])
 dict_items([('EMAIL', 1)])
 -1001227;whoahbot;dan herrera;whoahbot@gmail.com
 4603;;dan herrera;whoahbot@gmail.com
-
-dict_items([('EMAIL', 3), ('FULL_NAME', 1)])
--1001223;lujinhong;lujinhong;lujinhong2@gmail.com
-920066;lujinhong2;jinhong lu;lujinhong2@gmail.com
-916091;jinhong.luk;jinhong lu;jinhong.luk@gmail.com
-4589;;lujinhong;lujinhong2@gmail.com
 
 dict_items([('EMAIL', 1)])
 -1001220;leedohyun;dohyun lee;leedohyun@gmail.com
@@ -677,12 +607,6 @@ dict_items([('EMAIL', 3)])
 902672;antti.jarvinen;antti jã¤rvinen;antti.jarvinen@alupark.fi
 4555;;antti jarvinen;antti.jarvinen@alupark.fi
 
--1001199;tibkiss;tibor kiss;tibor.kiss@gmail.com
-4545;;tibor kiss;tibor.kiss@gmail.com
-
-3410;;tibor kiss;tibor.kiss@omixon.com
-3413;;tibor.kiss;tibor.kiss@omixon.com
-
 -1001198;pasalkarsachin1;sachin pasalkar;pasalkarsachin1@gmail.com
 4558;;pasalkarsachin1;pasalkarsachin1@gmail.com
 
@@ -700,16 +624,9 @@ dict_items([('EMAIL', 3)])
 4535;;alexlehm;alexlehm@gmail.com
 901554;alexlehm;alexander lehmann;alexlehm@gmail.com
 
-4534;;sourav mitra;souravmitr@gmail.com
-931961;souravmitr;sourav mitra;souravmitr@gmail.com
-
 dict_items([('EMAIL', 1)])
 -1001184;lijiansong;json lee;lijiansong@ict.ac.cn
 4523;;json lee;lijiansong@ict.ac.cn
-
-dict_items([('EMAIL', 1)])
--1001183;baluchicken;balint molnar;balintmolnar91@gmail.com
-4520;;balint molnar;balintmolnar91@gmail.com
 
 dict_items([('EMAIL', 1)])
 -1001181;wendyshusband;tangkailin;tkl449@126.com
@@ -755,10 +672,6 @@ dict_items([('FULL_NAME', 7), ('EMAIL', 6), ('SIMPLE_EMAIL_PREFIX', 3), ('PREFIX
 4916;;ptgoetz;ptgoetz@gmail.com
 -36;ptgoetz;p. taylor goetz;
 
-4460;;ethan li;ethanopensource@gmail.com
-4462;;meng li (ethan);ethanopensource@gmail.com
-910617;ethanopensource;ethan li;ethanopensource@gmail.com
-
 4458;;erik weathers;erikdw@gmail.com
 910511;erikdw;erik weathers;erikdw@gmail.com
 
@@ -767,11 +680,6 @@ dict_items([('FULL_NAME', 7), ('EMAIL', 6), ('SIMPLE_EMAIL_PREFIX', 3), ('PREFIX
 
 -1001164;bitcloud;jan schmidle;jan@cospired.com
 4450;;jan schmidle;jan@cospired.com
-
-dict_items([('EMAIL', 3)])
--1001163;ouyangliang;ouyangliang;ouyanggod@gmail.com
-4454;;ouyang liang;ouyanggod@gmail.com
-4455;;ouyangliang;ouyanggod@gmail.com
 
 4456;;robert (bobby) evans;evans@yahoo-inc.com
 4457;;robert evans;evans@yahoo-inc.com
@@ -877,9 +785,6 @@ dict_items([('EMAIL', 1)])
 -1001081;fuud;fedor bobin;fuudtorrentsru@gmail.com
 911543;fuudtorrentsru;fedor bobin;fuudtorrentsru@gmail.com
 
-2347;;noam zilberstein;noamz@fb.com
-924695;noamz;noam zilberstein;noamz@fb.com
-
 dict_items([('EMAIL', 1)])
 -1001070;kedzie;marek kedzierski;mark.kedzierski@gmail.com
 2344;;kedzie;mark.kedzierski@gmail.com
@@ -902,9 +807,6 @@ dict_items([('FULL_NAME', 3), ('EMAIL', 3)])
 3226;;nate rosenblum;nater@maginatics.com
 923902;nater;nate rosenblum;nater@maginatics.com
 2335;;nate rosenblum;nater@maginatics.com
-
-2337;;anatol pomozov;anatol.pomozov@gmail.com
-902021;anatol.pomozov;anatol pomozov;anatol.pomozov@gmail.com
 
 -1001047;llhe;liangliang he;lliang.he@gmail.com
 919801;lliang.he;ä½•äº®äº®;lliang.he@gmail.com
@@ -933,12 +835,6 @@ dict_items([('EMAIL', 1)])
 
 -1000998;akash3456;akash;akashpaul0210@gmail.com
 901099;akashpaul0210;akash paul;akashpaul0210@gmail.com
-
-dict_items([('FULL_NAME', 3), ('EMAIL', 3)])
--1000995;snowch;chris snow;chsnow123@gmail.com
-705;;chris snow;chsnow123@gmail.com
-906363;chsnow123;chris snow;chsnow123@gmail.com
--2473;chsnow;chris snow;
 
 2308;;sergei nikulov;sergey.nikulov@gmail.com
 930686;sergey.nikulov;sergei nikulov;sergey.nikulov@gmail.com
@@ -993,10 +889,6 @@ dict_items([('EMAIL', 1)])
 2244;;nick;homolibere@gmail.com
 
 dict_items([('EMAIL', 1)])
--1000934;ddc496601562;ding;dingdongchaoxiao@gmail.com
-909007;dingdongchaoxiao;dingdongchao;dingdongchaoxiao@gmail.com
-
-dict_items([('EMAIL', 1)])
 -1000923;msonnabaum;mark sonnabaum;mark@sonnabaum.com
 2225;;mark sonnabaum;mark@sonnabaum.com
 
@@ -1046,10 +938,6 @@ dict_items([('EMAIL', 3)])
 
 2172;;allen george;allen.george@gmail.com
 901668;allen.george;allen george;allen.george@gmail.com
-
--1000882;klaustrainer;klaus trainer;klaus_trainer@apache.org
-2169;;klaus trainer;klaus_trainer@apache.org
-918527;klaus_trainer;klaus trainer;klaus_trainer@apache.org
 
 2168;;stig bakken;stig@zedge.net
 932665;stig;stig bakken;stig@zedge.net
@@ -1103,15 +991,6 @@ dict_items([('FULL_NAME', 6), ('EMAIL', 13), ('PREFIX_LOGIN', 1)])
 dict_items([('FULL_NAME', 1), ('EMAIL_DOMAIN', 1)])
 -1000844;bananer;philip frank;github@philipfrank.de
 2112;;philip frank;ich@philipfrank.de
-
--1000843;coderplay;min zhou;coderplay@gmail.com
-906657;coderplay;min zhou;coderplay@gmail.com
-4347;;min zhou;coderplay@gmail.com
-
-dict_items([('EMAIL', 3)])
--1000833;seian;byunghoon lim;seian.hoon@gmail.com
-930609;seian.hoon;hoon;seian.hoon@gmail.com
-4345;;byunghoon lim;seian.hoon@gmail.com
 
 dict_items([('EMAIL', 6)])
 -1000830;combineads;byunghwa yun;combine@combineads.co.kr
@@ -1212,16 +1091,6 @@ dict_items([('FULL_NAME', 2), ('EMAIL', 3)])
 931643;small002;shivani mall;small002@ucr.edu
 2103;;shivani mall;small002@ucr.edu
 
-dict_items([('EMAIL', 1)])
--1000807;menakaj;menaka jayawardena;menaka12350@gmail.com
-922053;menaka12350;menaka madushanka;menaka12350@gmail.com
-
-dict_items([('EMAIL', 6)])
--1000806;erandiganepola;erandi ganepola;erandiganepola@gmail.com
-910349;erandiganepola;erandi ganepola;erandiganepola@gmail.com
-2094;;erandiganepola;erandiganepola@gmail.com
-2095;;erandi ganepola;erandiganepola@gmail.com
-
 3019;;chen song;chens_cs@hotmail.com
 905939;chens_cs;chen song;chens_cs@hotmail.com
 
@@ -1267,16 +1136,6 @@ dict_items([('EMAIL', 6)])
 906113;chris.mattmann;chris mattmann;chris.mattmann@gmail.com
 4380;;chris mattmann;chris.mattmann@gmail.com
 1375;;chris mattmann;chris.mattmann@gmail.com
-
-dict_items([('FULL_NAME', 18), ('EMAIL', 10), ('SIMPLE_EMAIL_PREFIX', 5), ('PREFIX_LOGIN', 5)])
--1000788;lresende;luciano resende;lresende@apache.org
-4232;;luciano resende;lresende@apache.org
-919944;lresende;luciano resende;lresende@apache.org
-659;;luciano resende;lresende@apache.org
-2905;;luciano resende;lresende@apache.com
-1373;;luciano resende;lresende@apache.org
-920030;luckbr1975;luciano resende;luckbr1975@gmail.com
--2017;lresende;luciano resende;
 
 -1000787;humbedooh;daniel gruno;humbedooh@apache.org
 1384;;daniel gruno;humbedooh@apache.org
@@ -1344,16 +1203,9 @@ dict_items([('EMAIL', 1)])
 1477;;naveen madhire;vmadhire@indiana.edu
 936020;vmadhire;;vmadhire@indiana.edu
 
--1000759;dumindux;dumindu buddhika;dumindukarunathilaka@gmail.com
-909689;dumindukarunathilaka;dumindu buddhika;dumindukarunathilaka@gmail.com
-1470;;dumindu buddhika;dumindukarunathilaka@gmail.com
-
 dict_items([('EMAIL', 1)])
 -1000754;dawidwys;dawid wysakowicz;wysakowicz.dawid@gmail.com
 936785;wysakowicz.dawid;dawid;wysakowicz.dawid@gmail.com
-
--1000753;rcheungit;haoran zhang;hubert.zhang@outlook.com
-913713;hubert.zhang;hubert zhang;hubert.zhang@outlook.com
 
 1412;;thomas;tdsilva@salesforce.com
 933591;tdsilva;thomas d'silva;tdsilva@salesforce.com
@@ -1363,10 +1215,6 @@ dict_items([('EMAIL', 1)])
 1400;;thomas d'silva;tdsilva@apache.org
 933590;tdsilva;thomas d'silva;tdsilva@apache.org
 
-dict_items([('EMAIL', 1)])
--1000750;vishnu667;vishnu prasad s;vishnu667@gmail.com
-935899;vishnu667;vishnu prasad;vishnu667@gmail.com
-
 1419;;rahul;rshrivastava@salesforce.com
 929220;rshrivastava;rahul shrivastava;rshrivastava@salesforce.com
 
@@ -1374,10 +1222,6 @@ dict_items([('EMAIL', 3)])
 -1000745;pditommaso;paolo di tommaso;paolo.ditommaso@gmail.com
 3877;;paolo di tommaso;paolo.ditommaso@gmail.com
 925534;paolo.ditommaso;paolo di tommaso;paolo.ditommaso@gmail.com
-
-dict_items([('EMAIL', 1)])
--1000738;dkobylarz;dariusz kobylarz;darek.kobylarz@gmail.com
-3769;;dariusz kobylarz;darek.kobylarz@gmail.com
 
 3842;;nick grealy;nickgrealy@gmail.com
 924297;nickgrealy;nicholas grealy;nickgrealy@gmail.com
@@ -1412,10 +1256,6 @@ dict_items([('EMAIL', 3)])
 -1000712;mrhaki;hubert klein ikkink;h.kleinikkink@gmail.com
 3795;;hubert klein ikkink;h.kleinikkink@gmail.com
 912872;h.kleinikkink;mrhaki;h.kleinikkink@gmail.com
-
-dict_items([('EMAIL', 1)])
--1000711;dispader;jake gage;jake.gage@gmail.com
-3782;;jake gage;jake.gage@gmail.com
 
 -1000706;andresteingress;andre steingress;me@andresteingress.com
 3773;;andre steingress;me@andresteingress.com
@@ -1463,10 +1303,6 @@ dict_items([('FULL_NAME', 7), ('EMAIL', 6)])
 1821;;keegan witt;keeganwitt@gmail.com
 918066;keeganwitt;keegan witt;keeganwitt@gmail.com
 3742;;keegan witt;keeganwitt@gmail.com
-
-dict_items([('EMAIL', 1)])
--1000678;voltisubito;jason schindler;jason@types.codes
-3740;;jason schindler;jason@types.codes
 
 -1000675;armsargis;sargis harutyunyan;armsargis@gmail.com
 3872;;sargis harutyunyan;armsargis@gmail.com
@@ -1546,10 +1382,6 @@ dict_items([('FULL_NAME', 7), ('EMAIL', 10), ('PREFIX_LOGIN', 2)])
 1500;;joel bernstein;jbernste@apache.org
 
 dict_items([('EMAIL', 1)])
--1000610;mariusneo;marius grama;mariusneo@gmail.com
-921016;mariusneo;marius grama;mariusneo@gmail.com
-
-dict_items([('EMAIL', 1)])
 -1000609;demiankatz;demian katz;demian.katz@villanova.edu
 908360;demian.katz;demian katz;demian.katz@villanova.edu
 
@@ -1576,15 +1408,6 @@ dict_items([('EMAIL', 1)])
 
 1530;;alexandre rafalovitch;arafalov@apache.org
 4951;;alexandre rafalovitch;arafalov@apache.org
-
-dict_items([('EMAIL', 15), ('PREFIX_LOGIN', 2), ('FULL_NAME', 2)])
--1000599;dsmiley;david smiley;dsmiley@apache.org
-4929;;david smiley;dsmiley@apache.org
-1508;;david smiley;dsmiley@apache.org
--1628;dsmiley;david wayne smiley;
-5031;;david wayne smiley;dsmiley@apache.org
-1610;;david wayne smiley;dsmiley@apache.org
-909628;dsmiley;david smiley;dsmiley@apache.org
 
 dict_items([('FULL_NAME', 1)])
 -1000597;janhoy;jan høydahl;
@@ -1638,12 +1461,6 @@ dict_items([('EMAIL', 3), ('FULL_NAME', 1)])
 931707;smola;santiago mola;smola@stratio.com
 930039;santi;santiago mola;santi@mola.io
 
-dict_items([('FULL_NAME', 3), ('EMAIL', 3)])
--1000551;vrajat;rajat venkatesh;
-226;;rajat venkatesh;rvenkatesh@qubole.com
-929377;rvenkatesh;rajat venkatesh;rvenkatesh@qubole.com
-783;;rajat venkatesh;rvenkatesh@qubole.com
-
 dict_items([('EMAIL', 1)])
 -1000549;lalinsky;lukáš lalinský;lukas@oxygene.sk
 225;;lukas lalinsky;lukas@oxygene.sk
@@ -1670,12 +1487,6 @@ dict_items([('EMAIL', 3)])
 4229;;jason altekruse;altekrusejason@gmail.com
 901715;altekrusejason;jason altekruse;altekrusejason@gmail.com
 
--1000539;hsuanyi;hsuan-yi chu;hsuanyichu@apache.org
-195;;hsuanyi;hsuanyichu@apache.org
-
-194;;amogh margoor;amoghm@qubole.com
-901926;amoghm;amogh margoor;amoghm@qubole.com
-
 -1000537;jinfengni;jinfeng ni;
 -3222;jni;jinfeng ni;
 
@@ -1697,13 +1508,6 @@ dict_items([('EMAIL', 3)])
 dict_items([('EMAIL', 1)])
 -1000533;dynamix;martin karlsch;martin@karlsch.com
 182;;martin karlsch;martin@karlsch.com
-
-4615;;aaron dossett;aaron.dossett@target.com
-4640;;aaron niskode-dossett;aaron.dossett@target.com
-900298;aaron.dossett;aaron.dossett;aaron.dossett@target.com
-
--1000531;dossett;aaron niskode-dossett;dossett@gmail.com
-909427;dossett;aaron niskodã©-dossett;dossett@gmail.com
 
 dict_items([('EMAIL', 1)])
 -1000529;yiming187;billy(yiming) liu;billyliu@apache.org
@@ -1764,24 +1568,11 @@ dict_items([('EMAIL', 1)])
 -1000518;riccardotommasini;riccardo tommasini;riccardo.tommasini@polimi.it
 928383;riccardo.tommasini;riccardo tommasini;riccardo.tommasini@polimi.it
 
-dict_items([('EMAIL', 3)])
--1000516;zinking;zhenw;zinking3@gmail.com
-937763;zinking3;albert;zinking3@gmail.com
-155;;zhen wang;zinking3@gmail.com
-
 dict_items([('FULL_NAME', 3), ('EMAIL', 3), ('PREFIX_LOGIN', 2)])
 -1000515;jbalint;jess balint;jbalint@gmail.com
 144;;jess balint;jbalint@gmail.com
 915256;jbalint;jess balint;jbalint@gmail.com
 -3220;jbalint;jess balint;
-
--1000511;haohui;haohui mai;
--610;wheat9;haohui mai;
-
-42;;haohui mai;wheat9@apache.org
-4643;;haohui mai;wheat9@apache.org
-138;;haohui mai;wheat9@apache.org
-936440;wheat9;haohui mai;wheat9@apache.org
 
 dict_items([('EMAIL', 1)])
 -1000509;batytskyy;viktor batytskyi;vbatytskyi@gmail.com
@@ -1846,25 +1637,11 @@ dict_items([('EMAIL', 3), ('SIMPLE_EMAIL_PREFIX', 2), ('FULL_NAME', 2)])
 919486;lfkauer;lfkauer@yahoo.com.br;lfkauer@yahoo.com.br
 919487;lfkauer;luis fernando kauer;lfkauer@yahoo.com.br.invalid
 
--1000491;jcamachor;jesús camacho rodríguez;jcamachorodriguez@hortonworks.com
-230;;jesus camacho rodriguez;jcamachorodriguez@hortonworks.com
-915323;jcamachorodriguez;jesus camacho rodriguez;jcamachorodriguez@hortonworks.com
-
-89;;jesus camacho rodriguez;jcamacho@apache.org
-915322;jcamacho;jesus camachorodriguez;jcamacho@apache.org
-
 dict_items([('EMAIL', 6)])
 -1000489;nishantmonu51;nishant bangarwa;nishant.monu51@gmail.com
 88;;nishant bangarwa;nishant.monu51@gmail.com
 924537;nishant.monu51;nishant bangarwa;nishant.monu51@gmail.com
 93;;nishant;nishant.monu51@gmail.com
-
-90;;slim;slim.bouguerra@gmail.com
-931620;slim.bouguerra;slim bouguerra;slim.bouguerra@gmail.com
-134;;slim bouguerra;slim.bouguerra@gmail.com
-
--1000488;b-slim;slim bouguerra;
--2414;bslim;slim bouguerra;
 
 dict_items([('EMAIL', 1)])
 -1000484;electrum;david phillips;david@acz.org
@@ -1876,10 +1653,6 @@ dict_items([('EMAIL', 1)])
 dict_items([('EMAIL', 1)])
 -1000482;mojodna;seth fitzsimmons;seth@mojodna.net
 4113;;seth fitzsimmons;seth@mojodna.net
-
-dict_items([('EMAIL', 1)])
--1000481;graphaelli;gil raphaelli;g@raphaelli.com
-4110;;gil raphaelli;g@raphaelli.com
 
 dict_items([('FULL_NAME', 9), ('EMAIL', 6), ('PREFIX_LOGIN', 3)])
 -1000478;dongjoon-hyun;dongjoon hyun;dongjoon@apache.org
@@ -2068,22 +1841,8 @@ dict_items([('FULL_NAME', 1)])
 -1722;ldywicki;łukasz dywicki;
 
 dict_items([('EMAIL', 1)])
--1000377;sebhoss;sebastian hoß;mail@shoss.de
-3611;;sebastian hoss;mail@shoss.de
-
-dict_items([('EMAIL', 1)])
 -1000376;bostko;valentin;valentin@nalisbg.com
 935357;valentin;valentin aitken;valentin@nalisbg.com
-
-3622;;hugo trippaers;hugo@trippaers.nl
-913733;hugo;hugo;hugo@trippaers.nl
-
--1000372;spark404;hugo trippaers;htrippaers@schubergphilis.com
-3597;;hugo trippaers;htrippaers@schubergphilis.com
-913690;htrippaers;hugo trippaers;htrippaers@schubergphilis.com
-
-3283;;hugo trippaers;trippie@gmail.com
-934740;trippie;hugo trippaers (trippie@gmail.com);trippie@gmail.com
 
 3591;;alessio soldano;asoldano@redhat.com
 903347;asoldano;alessio soldano;asoldano@redhat.com
@@ -2170,19 +1929,9 @@ dict_items([('FULL_NAME', 8), ('EMAIL', 28), ('PREFIX_LOGIN', 7)])
 4067;;andrew kennedy;grkvlt@apache.org
 4077;;andrew donald kennedy;grkvlt@apache.org
 
-dict_items([('EMAIL', 6), ('FULL_NAME', 4)])
--1000337;jglick;jesse glick;jglick@cloudbees.com
-915873;jglick;jesse glick;jglick@cloudbees.com
-3722;;jesse glick;jglick@cloudbees.com
-915798;jesse.glick;jesse glick;jesse.glick@oracle.com
-1279;;jesse glick;jglick@cloudbees.com
-
 -1000333;cstamas;tamas cservenak;tamas@cservenak.net
 933391;tamas;tamã¡s cservenã¡k;tamas@cservenak.net
 1276;;tamas cservenak;tamas@cservenak.net
-
--1000330;markdingram;mark ingram;markdingram@gmail.com
-1271;;markdingram;markdingram@gmail.com
 
 dict_items([('EMAIL', 1)])
 -1000329;mizdebsk;mikolaj izdebski;mizdebsk@redhat.com
@@ -2243,11 +1992,6 @@ dict_items([('FULL_NAME', 24), ('PREFIX_LOGIN', 10), ('SIMPLE_EMAIL_PREFIX', 6),
 1217;;sylwester lachiewicz;slachiewicz@gmail.com
 931591;slachiewicz;sylwester lachiewicz;slachiewicz@gmail.com
 
-dict_items([('EMAIL', 3)])
--1000299;echeipesh;eugene cheipesh;echeipesh@gmail.com
-909884;echeipesh;eugene cheipesh;echeipesh@gmail.com
-958;;eugene cheipesh;echeipesh@gmail.com
-
 953;;trent nadeau;tanadeau@gmail.com
 933401;tanadeau;trent nadeau;tanadeau@gmail.com
 
@@ -2277,10 +2021,6 @@ dict_items([('EMAIL', 3)])
 921;;dylan hutchison;dhutchis@cs.washington.edu
 908877;dhutchis;dylan hutchison;dhutchis@cs.washington.edu
 
-dict_items([('EMAIL', 1)])
--1000291;phrocker;marc;phrocker@apache.org
-926339;phrocker;;phrocker@apache.org
-
 899;;adam j. shook;adamjshook@gmail.com
 900645;adamjshook;adam j. shook;adamjshook@gmail.com
 
@@ -2309,9 +2049,6 @@ dict_items([('EMAIL', 1)])
 
 1273;;christian schulte;cs@schulte.it
 907065;cs;christian schulte;cs@schulte.it
-
-663;;rafal wojdyla;rav@spotify.com
-927924;rav;rafal wojdyla;rav@spotify.com
 
 2908;;huamin chen;hchen@redhat.com
 2917;;rootfs;hchen@redhat.com
@@ -2372,15 +2109,6 @@ dict_items([('FULL_NAME', 19), ('EMAIL', 9), ('SIMPLE_EMAIL_PREFIX', 12), ('PREF
 930621;sekikn;kengo seki;sekikn@apache.org
 930622;sekikn;kengo seki;sekikn@gmail.com
 
-dict_items([('EMAIL', 3)])
--1000241;nareshgbhat;naresh bhat;naresh.bhat@linaro.org
-923861;naresh.bhat;naresh bhat;naresh.bhat@linaro.org
-2805;;naresh bhat;naresh.bhat@linaro.org
-
-dict_items([('EMAIL', 1)])
--1000240;romeara;ryan o'meara;romeara@live.com
-2804;;ryan o'meara;romeara@live.com
-
 dict_items([('EMAIL', 3), ('FULL_NAME', 3)])
 -1000239;aajisaka;akira ajisaka;aajisaka@apache.org
 2800;;akira ajisaka;aajisaka@apache.org
@@ -2397,19 +2125,6 @@ dict_items([('FULL_NAME', 1), ('EMAIL', 1)])
 -1000237;kwmonroe;kevin w monroe;
 2798;;kevin w monroe;kevin.monroe@canonical.com
 
-dict_items([('FULL_NAME', 15), ('EMAIL', 7), ('PREFIX_LOGIN', 3)])
--1000235;youngwookim;youngwoo kim;ywkim@apache.org
--3264;ywkim;youngwoo kim;
-2913;;youngwoo kim;brandon.kim@nexr.com
-1442;;youngwoo kim;ywkim@apache.org
-2786;;youngwoo kim;ywkim@apache.org
-2891;;youngwoo kim;warwithin@gmail.com
-936272;warwithin;ê¹€ì˜ìš°;warwithin@gmail.com
-937490;ywkim;youngwoo kim;ywkim@apache.org
-
-4029;;kurt starsinic;kstarsinic@gmail.com
-918888;kstarsinic;kurt starsinic;kstarsinic@gmail.com
-
 -1000233;timwilkens;tim wilkens;
 -1609;twilkens;tim wilkens;
 
@@ -2421,10 +2136,6 @@ dict_items([('EMAIL', 3), ('PREFIX_LOGIN', 1), ('FULL_NAME', 3)])
 4025;;nick wellnhofer;wellnhofer@aevum.de
 936371;wellnhofer;nick wellnhofer;wellnhofer@aevum.de
 924902;nwellnhof;nick wellnhofer;nwellnhof@apache.org
-
-dict_items([('EMAIL', 1)])
--1000230;qxo;qxo;qxodream@gmail.com
-3823;;qxo;qxodream@gmail.com
 
 -1000227;hgschmie;henning schmiedehausen;henning@schmiedehausen.org
 913326;henning;henning schmiedehausen;henning@schmiedehausen.org
@@ -2467,9 +2178,6 @@ dict_items([('EMAIL', 1)])
 1721;;takuya ueshin;ueshin@happy-camper.st
 935018;ueshin;takuya ueshin;ueshin@happy-camper.st
 
-731;;sungjukwon;sungju.kwon@campmobile.com
-1715;;sungju kwon;sungju.kwon@campmobile.com
-
 1952;;eyal allweil;eyal_allweil@yahoo.com
 910755;eyal_allweil;eyal allweil;eyal_allweil@yahoo.com
 
@@ -2488,10 +2196,6 @@ dict_items([('EMAIL', 1)])
 dict_items([('FULL_NAME', 1)])
 -1000172;ilgrosso;francesco chicchiriccò;
 -454;ilgrosso;francesco chicchiriccò;
-
-dict_items([('EMAIL', 1)])
--1000170;andyklimczak;andy klimczak;andyklimczak@fastmail.com
-1683;;andy klimczak;andyklimczak@fastmail.com
 
 -1000165;klopfdreh;tobias soloschenko;tsoloschenko@apache.org
 1692;;tobias soloschenko;tsoloschenko@apache.org
@@ -2570,10 +2274,6 @@ dict_items([('FULL_NAME', 2), ('EMAIL', 3), ('PREFIX_LOGIN', 1)])
 917604;jxue;;jxue@linkedin.com
 -1907;jxue;junkai xue;
 4119;;junkai xue;jxue@linkedin.com
-
-dict_items([('EMAIL', 1)])
--1000137;sclasen;scott clasen;scott@heroku.com
-930417;scott;scott clasen;scott@heroku.com
 
 -1000136;bdumon;bruno dumon;bruno@ngdata.com
 1461;;bruno dumon;bruno@ngdata.com
@@ -2660,9 +2360,6 @@ dict_items([('SIMPLE_EMAIL_PREFIX', 4), ('FULL_NAME', 4), ('EMAIL', 4)])
 910313;eolivelli;enrico olivelli;eolivelli@gmail.com
 95;;enrico olivelli;eolivelli@apache.org
 
--1000104;ims94;imesha sudasingha;imesha.13@cse.mrt.ac.lk
-914108;imesha.13;imesha sudasingha;imesha.13@cse.mrt.ac.lk
-
 1858;;sylvain wallez;sylvain@apache.org
 933260;sylvain;sylvain wallez;sylvain@apache.org
 
@@ -2694,29 +2391,8 @@ dict_items([('EMAIL', 1)])
 1838;;randgalt;randgalt@apache.org
 927820;randgalt;jordan zimmerman;randgalt@apache.org
 
-dict_items([('EMAIL', 1)])
--1000090;badrinathkulkarni;badrinath kulkarni;urbaddy@gmail.com
-935104;urbaddy;badrinath kulkarni;urbaddy@gmail.com
-
 -1000089;sumashivaprasad;suma s;sumasai.shivaprasad@gmail.com
 932881;sumasai.shivaprasad;suma shivaprasad;sumasai.shivaprasad@gmail.com
-
-2464;;srikanth sundarrajan;sriksun@apache.org
-932169;sriksun;;sriksun@apache.org
-
--1000088;sriksun;srikanth sundarrajan;
--1709;sriksun;srikanth sundarrajan;
-
-2463;;srikanth sundarrajan;sriksun@hotmail.com
-932171;sriksun;srikanth sundarrajan;sriksun@hotmail.com
-
-2492;;srikanth.sundarrajan;srikanth.sundarrajan@inmobi.com
-932157;srikanth.sundarrajan;srikanth sundarrajan;srikanth.sundarrajan@inmobi.com
-
-dict_items([('EMAIL', 3)])
--1000087;ankeetmaini;ankeet maini;ankeet.maini@gmail.com
-2478;;ankeet maini;ankeet.maini@gmail.com
-902457;ankeet.maini;ankeet maini;ankeet.maini@gmail.com
 
 dict_items([('EMAIL', 3)])
 -1000086;prongs;rajat khandelwal;rajatgupta59@gmail.com
@@ -2737,10 +2413,6 @@ dict_items([('EMAIL', 3)])
 
 -1000069;edunov;sergey edunov;
 -2883;edunov;sergey edunov;
-
-dict_items([('EMAIL', 1)])
--1000068;neggert;nic eggert;nicholas.eggert@target.com
-350;;nicholas eggert;nicholas.eggert@target.com
 
 dict_items([('FULL_NAME', 2), ('EMAIL', 3)])
 -1000066;dlogothetis;dionysios logothetis;dlogothetis@gmail.com
@@ -2776,12 +2448,6 @@ dict_items([('FULL_NAME', 2), ('EMAIL', 3)])
 1049;;jozef hartinger;jharting@redhat.com
 915903;jharting;jozef hartinger;jharting@redhat.com
 
--1000058;manovotn;matej novotny;
--1980;manovotn;matej novotny;
-
-1042;;matej novotny;manovotn@redhat.com
-920753;manovotn;matej novotny;manovotn@redhat.com
-
 dict_items([('EMAIL', 1)])
 -1000056;ivanjunckes;ivan junckes filho;ivanjunckes@gmail.com
 1039;;ivan junckes filho;ivanjunckes@gmail.com
@@ -2789,13 +2455,6 @@ dict_items([('EMAIL', 1)])
 dict_items([('EMAIL', 1)])
 -1000055;ondrejm;ondro mihályi;ondrej.mihalyi@gmail.com
 1038;;ondrejm;ondrej.mihalyi@gmail.com
-
-dict_items([('PREFIX_LOGIN', 1), ('FULL_NAME', 9), ('EMAIL', 5)])
--1000054;johnament;john ament;
-923681;my.reprive;john ament;my.reprive@gmail.com
-3563;;john ament;john.d.ament@gmail.com
-1069;;john ament;johnament@johns-mbp.home
-1368;;john ament;john.d.ament@gmail.com
 
 1035;;andrea cosentino;ancosen@gmail.com
 3630;;andrea cosentino;ancosen@gmail.com
@@ -2870,12 +2529,6 @@ dict_items([('FULL_NAME', 1), ('EMAIL', 3)])
 1107;;scor;scorlosquet@gmail.com
 930375;scorlosquet;stã©phane corlosquet;scorlosquet@gmail.com
 
-dict_items([('EMAIL', 6)])
--1000013;the-alchemist;the alchemist;kap4020@gmail.com
-1060;;the alchemist;kap4020@gmail.com
-917805;kap4020;karl pietrzak;kap4020@gmail.com
-1095;;the alchemist;kap4020@gmail.com
-
 dict_items([('EMAIL', 10), ('COMP_EMAIL_PREFIX', 5), ('PREFIX_NAME', 1), ('LOGIN_NAME', 1)])
 -1000011;lewismc;lewis john mcgibbney;lewis.mcgibbney@gmail.com
 1092;;lewis john mcgibbney;lewis.mcgibbney@gmail.com
@@ -2899,15 +2552,6 @@ dict_items([('EMAIL', 10), ('COMP_EMAIL_PREFIX', 5), ('PREFIX_NAME', 1), ('LOGIN
 4054;;john mccabe;john@johnmccabe.net
 916683;john;john mccabe;john@johnmccabe.net
 
-dict_items([('FULL_NAME', 15), ('EMAIL', 6)])
--1000005;ahgittin;alex heneveld;alex.heneveld@cloudsoftcorp.com
-901380;alex.heneveld;alex heneveld;alex.heneveld@cloudsoftcorp.com
-3206;;alex heneveld;alex.heneveld@cloudsoftcorp.com
-4052;;alex heneveld;alex.heneveld@cloudsoftcorp.com
--2793;heneveld;alex heneveld;
-4057;;alex heneveld;alex@cloudsoft.io
-4058;;alex heneveld;alex@alexs-macbook-pro.local
-
 -1000004;drigodwin;duncan godwin;
 -3228;drigodwin;duncan godwin;
 
@@ -2930,6 +2574,13 @@ dict_items([('FULL_NAME', 19), ('EMAIL', 9)])
 
 4047;;thomas bouron;thomas.bouron@cloudsoftcorp.com
 933941;thomas.bouron;thomas bouron;thomas.bouron@cloudsoftcorp.com
+
+1442;;youngwoo kim;ywkim@apache.org
+2786;;youngwoo kim;ywkim@apache.org
+937490;ywkim;youngwoo kim;ywkim@apache.org
+
+2891;;youngwoo kim;warwithin@gmail.com
+936272;warwithin;ê¹€ì˜ìš°;warwithin@gmail.com
 
 2968;;stephen chu;schu@cloudera.com
 930352;schu;stephen chu;schu@cloudera.com
@@ -2988,6 +2639,9 @@ dict_items([('FULL_NAME', 19), ('EMAIL', 9)])
 
 2298;;laurent goujon;lgoujon@twitter.com
 4234;;laurent goujon;lgoujon@twitter.com
+
+2169;;klaus trainer;klaus_trainer@apache.org
+918527;klaus_trainer;klaus trainer;klaus_trainer@apache.org
 
 2606;;micah whitacre;mkwhit@gmail.com
 922957;mkwhit;micah whitacre;mkwhit@gmail.com
@@ -3056,6 +2710,19 @@ dict_items([('PREFIX_LOGIN', 1), ('FULL_NAME', 1), ('EMAIL', 3)])
 -2852;iwasakims;masatake iwasaki;
 4792;;iwasakims;
 
+3622;;hugo trippaers;hugo@trippaers.nl
+913733;hugo;hugo;hugo@trippaers.nl
+
+3597;;hugo trippaers;htrippaers@schubergphilis.com
+913690;htrippaers;hugo trippaers;htrippaers@schubergphilis.com
+
+3283;;hugo trippaers;trippie@gmail.com
+934740;trippie;hugo trippaers (trippie@gmail.com);trippie@gmail.com
+
+3206;;alex heneveld;alex.heneveld@cloudsoftcorp.com
+901380;alex.heneveld;alex heneveld;alex.heneveld@cloudsoftcorp.com
+4052;;alex heneveld;alex.heneveld@cloudsoftcorp.com
+
 3874;;guillaume laforge;glaforge@gmail.com
 912258;glaforge;guillaume laforge;glaforge@gmail.com
 
@@ -3097,8 +2764,17 @@ dict_items([('PREFIX_LOGIN', 1), ('FULL_NAME', 1), ('EMAIL', 1)])
 369;;claudio martella;claudio.martella@gmail.com
 906471;claudio.martella;claudio martella;claudio.martella@gmail.com
 
+705;;chris snow;chsnow123@gmail.com
+906363;chsnow123;chris snow;chsnow123@gmail.com
+
 337;;curtis william arnold;carnold@apache.org
 905423;carnold;curt arnold;carnold@apache.org
+
+dict_items([('FULL_NAME', 2), ('EMAIL', 3)])
+-2414;bslim;slim bouguerra;
+931620;slim.bouguerra;slim bouguerra;slim.bouguerra@gmail.com
+90;;slim;slim.bouguerra@gmail.com
+134;;slim bouguerra;slim.bouguerra@gmail.com
 
 3694;;jochen theodorou;blackdrag@gmx.org
 3983;;jochen;blackdrag@gmx.org
@@ -3239,6 +2915,9 @@ dict_items([('PREFIX_LOGIN', 2), ('FULL_NAME', 2), ('EMAIL', 3)])
 912234;gjacoby;geoffrey jacoby;gjacoby@salesforce.com
 1434;;geoffrey;gjacoby@salesforce.com
 
+1470;;dumindu buddhika;dumindukarunathilaka@gmail.com
+909689;dumindukarunathilaka;dumindu buddhika;dumindukarunathilaka@gmail.com
+
 1457;;cody marcel;cody.marcel@gmail.com
 1466;;cmarcel;cody.marcel@gmail.com
 
@@ -3342,6 +3021,15 @@ dict_items([('FULL_NAME', 3), ('EMAIL', 3)])
 1912;;jay zarfoss;jzarfoss@netflix.com
 917623;jzarfoss;jay zarfoss;jzarfoss@netflix.com
 
+dict_items([('PREFIX_LOGIN', 5), ('FULL_NAME', 15), ('EMAIL', 6), ('SIMPLE_EMAIL_PREFIX', 4)])
+-2017;lresende;luciano resende;
+4232;;luciano resende;lresende@apache.org
+919944;lresende;luciano resende;lresende@apache.org
+659;;luciano resende;lresende@apache.org
+2905;;luciano resende;lresende@apache.com
+1373;;luciano resende;lresende@apache.org
+920030;luckbr1975;luciano resende;luckbr1975@gmail.com
+
 1864;;lvfangmin;lvfangmin@gmail.com
 920154;lvfangmin;fangmin lv;lvfangmin@gmail.com
 
@@ -3414,6 +3102,9 @@ dict_items([('FULL_NAME', 5), ('EMAIL', 6), ('COMP_EMAIL_PREFIX', 4)])
 
 1091;;marius bogoevici;marius.bogoevici@gmail.com
 921013;marius.bogoevici;marius bogoevici;marius.bogoevici@gmail.com
+
+1042;;matej novotny;manovotn@redhat.com
+920753;manovotn;matej novotny;manovotn@redhat.com
 
 1085;;ken finnigan;ken@kenfinnigan.me
 918134;ken;ken finnigan;ken@kenfinnigan.me
@@ -3570,6 +3261,15 @@ dict_items([('PREFIX_LOGIN', 1), ('SIMPLE_NAME', 1), ('EMAIL', 1)])
 
 2445;;sushil mohanty;sushil.k.mohanty@gmail.com
 933105;sushil.k.mohanty;sushil mohanty;sushil.k.mohanty@gmail.com
+
+2464;;srikanth sundarrajan;sriksun@apache.org
+932169;sriksun;;sriksun@apache.org
+
+2463;;srikanth sundarrajan;sriksun@hotmail.com
+932171;sriksun;srikanth sundarrajan;sriksun@hotmail.com
+
+2492;;srikanth.sundarrajan;srikanth.sundarrajan@inmobi.com
+932157;srikanth.sundarrajan;srikanth sundarrajan;srikanth.sundarrajan@inmobi.com
 
 2465;;raghavendra singh;raghavendra.singh@inmobi.com
 927443;raghavendra.singh;raghavendra singh;raghavendra.singh@inmobi.com
@@ -3836,6 +3536,14 @@ dict_items([('PREFIX_LOGIN', 2), ('FULL_NAME', 9), ('EMAIL', 6)])
 
 1550;;shawn heisey;elyograg@apache.org
 4971;;shawn heisey;elyograg@apache.org
+
+dict_items([('PREFIX_LOGIN', 2), ('FULL_NAME', 2), ('EMAIL', 10)])
+-1628;dsmiley;david wayne smiley;
+4929;;david smiley;dsmiley@apache.org
+1508;;david smiley;dsmiley@apache.org
+5031;;david wayne smiley;dsmiley@apache.org
+1610;;david wayne smiley;dsmiley@apache.org
+909628;dsmiley;david smiley;dsmiley@apache.org
 
 1532;;dennis gove;dpgove@gmail.com
 909476;dpgove;dennis gove;dpgove@gmail.com
@@ -4457,11 +4165,24 @@ dict_items([('PREFIX_LOGIN', 3), ('FULL_NAME', 9), ('EMAIL', 6), ('SIMPLE_EMAIL_
 4852;;jason jackson;jasonjckn@gmail.com
 915083;jasonjckn;jason jackson;jasonjckn@gmail.com
 
+dict_items([('PREFIX_LOGIN', 4), ('FULL_NAME', 15), ('EMAIL', 6)])
+-610;wheat9;haohui mai;
+928385;ricetons;haohui mai;ricetons@gmail.com
+4643;;haohui mai;wheat9@apache.org
+42;;haohui mai;wheat9@apache.org
+138;;haohui mai;wheat9@apache.org
+913521;hmai;haohui mai;hmai@hortonworks.com
+936440;wheat9;haohui mai;wheat9@apache.org
+
 4539;;satish duggana;sduggana@hortonworks.com
 930484;sduggana;satish duggana;sduggana@hortonworks.com
 
 4508;;satish duggana;satishd@apache.org
 930165;satishd;satish duggana;satishd@apache.org
+
+4602;;nathan marz;nathan@nathanmarz.com
+4803;;nathanmarz;nathan@nathanmarz.com
+923924;nathan;nathan marz;nathan@nathanmarz.com
 
 4619;;longda feng;zhongyan.feng@alibaba-inc.com
 937717;zhongyan.feng;å°ä»²æ·¹(çºªå›ç¥¥);zhongyan.feng@alibaba-inc.com
@@ -4554,6 +4275,9 @@ dict_items([('PREFIX_LOGIN', 4), ('FULL_NAME', 9), ('EMAIL', 6)])
 4361;;keuntae park;sirpkt@apache.org
 931441;sirpkt;ktpark;sirpkt@apache.org
 4374;;sirpkt;sirpkt@apache.org
+
+4347;;min zhou;coderplay@gmail.com
+906657;coderplay;min zhou;coderplay@gmail.com
 
 4362;;jihun kang;jihun@apache.org
 916001;jihun;jihun kang;jihun@apache.org
@@ -4850,16 +4574,20 @@ dict_items([('FULL_NAME', 5), ('EMAIL', 55)])
 1381;;ross gardler;rgardler@apache.org
 928313;rgardler;;rgardler@apache.org
 
-dict_items([('FULL_NAME', 27), ('PREFIX_LOGIN', 3), ('EMAIL', 22), ('PREFIX_NAME', 1), ('LOGIN_NAME', 1)])
+dict_items([('FULL_NAME', 32), ('PREFIX_LOGIN', 3), ('EMAIL', 27), ('PREFIX_NAME', 1), ('LOGIN_NAME', 1)])
 -227;johndament;john d. ament;
 1024;;john d. ament;johndament@apache.org
 3585;;john d. ament;john.d.ament@gmail.com
 916703;johndament;;johndament@apache.org
+923681;my.reprive;john ament;my.reprive@gmail.com
 1061;;john d. ament;john.ament@spartasystems.com
 3561;;john d. ament;johndament@apache.org
+3563;;john ament;john.d.ament@gmail.com
+1069;;john ament;johnament@johns-mbp.home
 1362;;john d. ament;john.d.ament@gmail.com
 1366;;john d. ament;johndament@apache.org
 916598;john.d.ament;john d. ament;john.d.ament@gmail.com
+1368;;john ament;john.d.ament@gmail.com
 1018;;john d. ament;john.d.ament@gmail.com
 1087;;johndament;john.d.ament@gmail.com
 
@@ -5290,6 +5018,12 @@ dict_items([('EMAIL', 6), ('PREFIX_NAME', 1), ('LOGIN_NAME', 1)])
 936879;xiaojian.fxj;æ–¹å­å¥(çž„å¼ÿ);xiaojian.fxj@alibaba-inc.com
 4618;;xiaojian.fxj;xiaojian.fxj@alibaba-inc.com
 
+89;;jesus camacho rodriguez;jcamacho@apache.org
+915322;jcamacho;jesus camachorodriguez;jcamacho@apache.org
+
+230;;jesus camacho rodriguez;jcamachorodriguez@hortonworks.com
+915323;jcamachorodriguez;jesus camacho rodriguez;jcamachorodriguez@hortonworks.com
+
 dict_items([('EMAIL', 1)])
 99;;roman kulyk;rom.kulyk@gmail.com
 928982;rom.kulyk;roman kulyk;rom.kulyk@gmail.com
@@ -5345,6 +5079,10 @@ dict_items([('EMAIL', 1)])
 149;;anton mushin;anton_mushin@epam.com
 902669;anton_mushin;anton mushin;anton_mushin@epam.com
 
+dict_items([('EMAIL', 1)])
+155;;zhen wang;zinking3@gmail.com
+937763;zinking3;albert;zinking3@gmail.com
+
 160;;julian;j.feinauer@pragmaticminds.de
 914508;j.feinauer;julian feinauer;j.feinauer@pragmaticminds.de
 
@@ -5384,6 +5122,10 @@ dict_items([('EMAIL', 1)])
 191;;yi xinglu;yxlyee@gmail.com
 
 dict_items([('EMAIL', 1)])
+194;;amogh margoor;amoghm@qubole.com
+901926;amoghm;amogh margoor;amoghm@qubole.com
+
+dict_items([('EMAIL', 1)])
 196;;javanshir yelchiyev;javanlion@gmail.com
 915136;javanlion;javanshir yelchiyev;javanlion@gmail.com
 
@@ -5415,7 +5157,11 @@ dict_items([('EMAIL', 10)])
 917592;jwills;josh wills;jwills@cloudera.com
 2653;;josh wills;jwills@cloudera.com
 
-dict_items([('EMAIL', 3), ('PREFIX_NAME', 3), ('LOGIN_NAME', 3)])
+dict_items([('EMAIL', 3)])
+226;;rajat venkatesh;rvenkatesh@qubole.com
+929377;rvenkatesh;rajat venkatesh;rvenkatesh@qubole.com
+783;;rajat venkatesh;rvenkatesh@qubole.com
+
 231;;ethan;castives@gmail.com
 1405;;aertoria;castives@gmail.com
 
@@ -5675,6 +5421,10 @@ dict_items([('EMAIL', 1)])
 906571;cloverheartsdev;cloverhearts;cloverheartsdev@gmail.com
 
 dict_items([('EMAIL', 1)])
+562;;krishna-pandey;krish.pandey21@gmail.com
+918776;krish.pandey21;krishna pandey;krish.pandey21@gmail.com
+
+dict_items([('EMAIL', 1)])
 570;;mingmxu;mingmxu@ebay.com
 4551;;mingmxu;mingmxu@ebay.com
 
@@ -5740,6 +5490,9 @@ dict_items([('EMAIL', 1)])
 653;;unknown;sokurito@gmail.com
 661;;sergey_sokur;sokurito@gmail.com
 
+663;;rafal wojdyla;rav@spotify.com
+927924;rav;rafal wojdyla;rav@spotify.com
+
 dict_items([('EMAIL', 1)])
 672;;python_max;python.max@gmail.com
 927202;python.max;python_max;python.max@gmail.com
@@ -5763,6 +5516,10 @@ dict_items([('EMAIL', 1)])
 dict_items([('EMAIL', 1)])
 719;;gdupont;ger.dupont@gmail.com
 911990;ger.dupont;gã©rard dupont;ger.dupont@gmail.com
+
+dict_items([('EMAIL', 1)])
+731;;sungjukwon;sungju.kwon@campmobile.com
+1715;;sungju kwon;sungju.kwon@campmobile.com
 
 dict_items([('EMAIL', 1)])
 733;;fvaleri;fedevaleri@gmail.com
@@ -5798,6 +5555,9 @@ dict_items([('EMAIL', 1)])
 789;;beeva-victorgarcia;victor.garcia@beeva.com
 935616;victor.garcia;victor manuel garcia;victor.garcia@beeva.com
 
+833;;rohit agarwal;mindprince@gmail.com
+922747;mindprince;rohit agarwal;mindprince@gmail.com
+
 2064;;tomas sedovic;tomas@sedovic.cz
 934498;tomas;tomas sedovic;tomas@sedovic.cz
 
@@ -5810,8 +5570,21 @@ dict_items([('EMAIL', 1)])
 828;;cto;goi.cto@gmail.com
 
 dict_items([('EMAIL', 1)])
+823;;madhuka;madhukaudantha@gmail.com
+920371;madhukaudantha;madhuka udantha;madhukaudantha@gmail.com
+
+dict_items([('EMAIL', 1)])
 825;;joelz;djoelz@gmail.com
 909133;djoelz;joel zambrano;djoelz@gmail.com
+
+dict_items([('EMAIL', 3)])
+829;;caofangkun;caofangkun@gmail.com
+905340;caofangkun;fangkun cao;caofangkun@gmail.com
+4692;;caofangkun;caofangkun@gmail.com
+
+dict_items([('EMAIL', 1)])
+855;;juarez bochi;jbochi@gmail.com
+915288;jbochi;juarez bochi;jbochi@gmail.com
 
 dict_items([('EMAIL', 1)])
 856;;timothy shelton;timothy.shelton@t-mobile.com
@@ -5847,7 +5620,6 @@ dict_items([('EMAIL', 1)])
 923;;ben manes;ben.manes@gmail.com
 904007;ben.manes;benjamin manes;ben.manes@gmail.com
 
-dict_items([('EMAIL', 1), ('PREFIX_NAME', 1), ('LOGIN_NAME', 1)])
 927;;phrocker;marc.parisi@gmail.com
 920816;marc.parisi;marc p.;marc.parisi@gmail.com
 
@@ -5881,6 +5653,10 @@ dict_items([('FULL_NAME', 1), ('EMAIL_DOMAIN', 1)])
 dict_items([('EMAIL', 1)])
 957;;jacob meisler;jacob.meisler@gmail.com
 975;;meislerj;jacob.meisler@gmail.com
+
+dict_items([('EMAIL', 1)])
+958;;eugene cheipesh;echeipesh@gmail.com
+909884;echeipesh;eugene cheipesh;echeipesh@gmail.com
 
 dict_items([('EMAIL', 1)])
 964;;jenna huston;jenna.huston22@gmail.com
@@ -5960,6 +5736,11 @@ dict_items([('EMAIL', 1)])
 dict_items([('EMAIL', 1)])
 1037;;george kankava;george.kankava@devfactory.com
 911967;george.kankava;george kankava;george.kankava@devfactory.com
+
+dict_items([('EMAIL', 3)])
+1060;;the alchemist;kap4020@gmail.com
+917805;kap4020;karl pietrzak;kap4020@gmail.com
+1095;;the alchemist;kap4020@gmail.com
 
 dict_items([('EMAIL', 1)])
 1063;;michellemurray;mmurray@redhat.com
@@ -6050,6 +5831,12 @@ dict_items([('EMAIL', 1)])
 dict_items([('EMAIL', 1)])
 1267;;tibor17;tibor17@lycos.com
 934095;tibor17;tibor17;tibor17@lycos.com
+
+dict_items([('EMAIL', 3), ('FULL_NAME', 3)])
+1279;;jesse glick;jglick@cloudbees.com
+915873;jglick;jesse glick;jglick@cloudbees.com
+3722;;jesse glick;jglick@cloudbees.com
+915798;jesse.glick;jesse glick;jesse.glick@oracle.com
 
 1280;;john casey;jdcasey@commonjava.org
 915414;jdcasey;john casey;jdcasey@commonjava.org
@@ -6574,6 +6361,11 @@ dict_items([('EMAIL', 3)])
 3320;;dies koper;diesk@fast.au.fujitsu.com
 908931;diesk;koper, dies;diesk@fast.au.fujitsu.com
 
+dict_items([('EMAIL', 3)])
+2094;;erandiganepola;erandiganepola@gmail.com
+910349;erandiganepola;erandi ganepola;erandiganepola@gmail.com
+2095;;erandi ganepola;erandiganepola@gmail.com
+
 dict_items([('COMP_EMAIL_PREFIX', 2), ('SIMPLE_NAME', 1), ('EMAIL', 1), ('PREFIX_NAME', 2), ('LOGIN_NAME', 2)])
 2097;;riyafa;riyafa.12@cse.mrt.ac.lk
 2098;;riyafa;riyafa.12@cse.mrt.ac.k
@@ -6616,6 +6408,13 @@ dict_items([('EMAIL', 1)])
 dict_items([('EMAIL', 1)])
 2332;;kirby1337;pasci@hispeed.ch
 2354;;pascal schweizer;pasci@hispeed.ch
+
+2337;;anatol pomozov;anatol.pomozov@gmail.com
+902021;anatol.pomozov;anatol pomozov;anatol.pomozov@gmail.com
+
+dict_items([('EMAIL', 1)])
+2347;;noam zilberstein;noamz@fb.com
+924695;noamz;noam zilberstein;noamz@fb.com
 
 dict_items([('EMAIL', 1)])
 2349;;alan dunn;amdunn@gmail.com
@@ -6689,6 +6488,10 @@ dict_items([('EMAIL', 1)])
 
 2474;;anshul gupta;megaanshulgupta96@gmail.com
 921997;megaanshulgupta96;anshul gupta;megaanshulgupta96@gmail.com
+
+dict_items([('EMAIL', 1)])
+2478;;ankeet maini;ankeet.maini@gmail.com
+902457;ankeet.maini;ankeet maini;ankeet.maini@gmail.com
 
 2481;;gabor liptak;gliptak@users.sourceforge.net
 912285;gliptak;gabor liptak;gliptak@users.sourceforge.net
@@ -6851,6 +6654,10 @@ dict_items([('EMAIL', 1)])
 
 2803;;yuqi gu;yuqi.gu@arm.com
 2810;;yqgu;yuqi.gu@arm.com
+
+dict_items([('EMAIL', 1)])
+2805;;naresh bhat;naresh.bhat@linaro.org
+923861;naresh.bhat;naresh bhat;naresh.bhat@linaro.org
 
 dict_items([('EMAIL', 1)])
 2807;;dengkai02;dengkai02@baidu.com
@@ -7353,6 +7160,9 @@ dict_items([('EMAIL', 1)])
 3409;;david santiago;david.santiago@gmail.com
 907922;david.santiago;david santiago;david.santiago@gmail.com
 
+3410;;tibor kiss;tibor.kiss@omixon.com
+3413;;tibor.kiss;tibor.kiss@omixon.com
+
 3417;;kelvin kakugawa;kakugawa@gmail.com
 917710;kakugawa;kelvin kakugawa;kakugawa@gmail.com
 
@@ -7479,6 +7289,10 @@ dict_items([('EMAIL', 1)])
 3725;;dkhamitov;khamitov.dm@gmail.com
 3736;;dmitrii kahmitov;khamitov.dm@gmail.com
 
+dict_items([('FULL_NAME', 1), ('EMAIL_DOMAIN', 1)])
+3749;;christoph frick;cf@ofnir.net
+3838;;christoph frick;rid@ofnir.net
+
 3754;;jochen berger;fooberger@gmail.com
 911266;fooberger;jochen berger;fooberger@gmail.com
 
@@ -7571,6 +7385,10 @@ dict_items([('EMAIL', 1)])
 dict_items([('EMAIL', 1)])
 4021;;boc mcwhirter;bob@codehaus.org
 904616;bob;;bob@codehaus.org
+
+dict_items([('EMAIL', 1)])
+4029;;kurt starsinic;kstarsinic@gmail.com
+918888;kstarsinic;kurt starsinic;kstarsinic@gmail.com
 
 4030;;david e. wheeler;david@justatheory.com
 907997;david;david e. wheeler;david@justatheory.com
@@ -7757,6 +7575,10 @@ dict_items([('EMAIL', 1)])
 4344;;janaka chathuranga thilakarathna;bjchathuranga@gmail.com
 904459;bjchathuranga;janaka thilakarathna;bjchathuranga@gmail.com
 
+dict_items([('EMAIL', 1)])
+4345;;byunghoon lim;seian.hoon@gmail.com
+930609;seian.hoon;hoon;seian.hoon@gmail.com
+
 dict_items([('EMAIL', 3)])
 4352;;yeonsu han;hanyounsu@gmail.com
 4354;;hys9958;hanyounsu@gmail.com
@@ -7837,6 +7659,14 @@ dict_items([('EMAIL', 1)])
 4447;;ted steen;tedst@apache.org
 933645;tedst;;tedst@apache.org
 
+dict_items([('EMAIL', 1)])
+4454;;ouyang liang;ouyanggod@gmail.com
+4455;;ouyangliang;ouyanggod@gmail.com
+
+4460;;ethan li;ethanopensource@gmail.com
+4462;;meng li (ethan);ethanopensource@gmail.com
+910617;ethanopensource;ethan li;ethanopensource@gmail.com
+
 4667;;jmartell7;joshua.martell@gmail.com
 917041;joshua.martell;joshua martell;joshua.martell@gmail.com
 
@@ -7882,6 +7712,10 @@ dict_items([('EMAIL', 1)])
 4526;;ranjan banerjee;rabaner@microsoft.com
 927349;rabaner;ranjan banerjee;rabaner@microsoft.com
 
+dict_items([('EMAIL', 1)])
+4534;;sourav mitra;souravmitr@gmail.com
+931961;souravmitr;sourav mitra;souravmitr@gmail.com
+
 4552;;ambud;asharma525xi@gmail.com
 903212;asharma525xi;ambud sharma;asharma525xi@gmail.com
 
@@ -7896,6 +7730,15 @@ dict_items([('EMAIL', 1)])
 4566;;balazs kossovics;balazs.kossovics@s4m.io
 903697;balazs.kossovics;balã¡zs kossovics;balazs.kossovics@s4m.io
 
+4589;;lujinhong;lujinhong2@gmail.com
+920066;lujinhong2;jinhong lu;lujinhong2@gmail.com
+
+dict_items([('FULL_NAME', 1), ('EMAIL', 3)])
+4590;;aaron niskode-dossett;aniskodedossett@etsy.com
+4640;;aaron niskode-dossett;aaron.dossett@target.com
+900298;aaron.dossett;aaron.dossett;aaron.dossett@target.com
+4615;;aaron dossett;aaron.dossett@target.com
+
 dict_items([('EMAIL', 1)])
 4594;;pavel grochal;darkless69@gmail.com
 907703;darkless69;joe darkless;darkless69@gmail.com
@@ -7903,6 +7746,10 @@ dict_items([('EMAIL', 1)])
 dict_items([('EMAIL', 1)])
 4599;;falmp;chico.lopes@gmail.com
 905979;chico.lopes;francisco lopes;chico.lopes@gmail.com
+
+dict_items([('SIMPLE_EMAIL_PREFIX', 1), ('SIMPLE_NAME', 1), ('EMAIL', 2)])
+4610;;mjsax;mjsax@apache.org
+4642;;mjsax;mjsax@informatik.hu-berlin.de
 
 4613;;narendra_bidari;narendra_bidari@symantec.com
 923857;narendra_bidari;narendra bidari;narendra_bidari@symantec.com
@@ -7918,6 +7765,10 @@ dict_items([('EMAIL', 1)])
 dict_items([('EMAIL', 1)])
 4644;;jang-soo lee;jangsoo.lee@gmail.com
 4728;;jangie;jangsoo.lee@gmail.com
+
+dict_items([('EMAIL', 1)])
+4650;;chuck burgess;cburgess@progressrail.com
+905548;cburgess;chuck burgess;cburgess@progressrail.com
 
 4664;;rick kellogg;rmkellogg@comcast.net
 928635;rmkellogg;rick kellogg;rmkellogg@comcast.net
@@ -7957,6 +7808,10 @@ dict_items([('EMAIL', 1)])
 
 4725;;ashish singh;ashish@hortonworks.com
 903245;ashish;ashish singh;ashish@hortonworks.com
+
+dict_items([('EMAIL', 1)])
+4732;;david katten;dkatten@geoforce.com
+909145;dkatten;dave katten;dkatten@geoforce.com
 
 4743;;rick kilgore;rick.kilgore@hbo.com
 928464;rick.kilgore;kilgore, rick (hbo);rick.kilgore@hbo.com

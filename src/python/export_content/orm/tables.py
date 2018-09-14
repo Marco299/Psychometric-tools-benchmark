@@ -347,3 +347,25 @@ class GithubDeveloper(Base):
         self.user_id = user_id
         self.name = unidecode(name[:255]).strip()
         self.email = email
+
+
+class UsersRegionId(Base):
+    __tablename__ = 'users_region_id'
+    __table_args__ = {
+        'extend_existing': True,
+        'mysql_row_format': 'DYNAMIC'
+    }
+
+    id = Column(BigInteger, primary_key=True)
+    username = Column(String(255), unique=True)
+    continent = Column(String(255))
+    name = Column(String(255))
+    email = Column(String(255))
+
+    def __init__(self, id, continent, username, name, email):
+        self.id = id
+        self.continent = continent
+        self.username = username
+        self.name = name
+        self.email = email
+

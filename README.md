@@ -43,11 +43,12 @@ where:
 * liwc_dictionary: LIWC dictionary selected in Step 4, either `2007` or `2015`
 ## 6. Compute developers' Big Five traits scores
 * *Setup*:
-    Use a Python 3 environment as described in Step 3.
+    1. Use a Python 3 environment as described in Step 3.
+    2. In case of use of twitPersonality, train model as described [here](https://github.com/D2KLab/twitpersonality). Store `dataset.vec` in directory `src/python/big5/twit_personality/FastText` and trained models in `src/python/big5/twit_personality/training/Models/SVM`.
 * *Execution*:
 From directory `src/python/big5` run:
 ```bash
-$ sh run.sh <liwc_dictionary>
+$ sh run.sh <tool>
 ```
 where:
-* liwc_dictionary: LIWC dictionary selected in Step 4 (ii), either `2007` or `2015`
+* tool: `liwc07`, `liwc15` or `twitPers`

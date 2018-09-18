@@ -100,7 +100,7 @@ def get_neuroticism(score):
 
 
 def get_profile_liwc():
-    if tool == '2007':
+    if tool == 'liwc07':
         scores = session.query(Liwc2007Scores)
     elif tool == 'liwc15':
         scores = session.query(Liwc2015Scores)
